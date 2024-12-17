@@ -14,6 +14,19 @@ console.log(mixed[4][2]);
 
 let flen=fruits.length;
 let text=" ";
-for (let i=0; i<flen;i++){
-    text +=``
-}
+// for (let i=0; i<flen;i++){
+//     text +=``
+// }
+
+// push unshift 
+// push method used to add element in array at the end
+// unshift method used to add elemt in array at the starting
+fruits.push("dragaonfruits");
+fruits.unshift("dustibun");
+
+// pop and shift
+// pop used to delete the elemt from an array at the end
+// shift used to delete the elemnt from an array ait the starting  
+fruits.pop("dragonfruits");
+fruits.pop("mango");
+fruits.shift("banana");
