@@ -15,4 +15,5 @@ const array=[]
 
     // push method add elemnts in the begnings of the array
     const name =["mango","kiwi","grapes","black dog","bacardi","old monk"];
-    name.pop()
+   name.push("abhinav");
+   console.log(name);
