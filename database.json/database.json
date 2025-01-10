@@ -1,0 +1,32 @@
+{
+    "emp": [
+      {
+        "name": "Abhinab",
+        "id": "13e1",
+        "age": "30",
+        "contact": "658645645",
+        "city": "itarsi"
+      },
+      {
+        "name": "Abhinav",
+        "id": "57a4",
+        "age": "19",
+        "contact": "54554",
+        "city": "Bhopal"
+      },
+      {
+        "name": "Rajiv prajapatifsad",
+        "id": "3d2b",
+        "age": "19",
+        "contact": "54554",
+        "city": "itarsi"
+      },
+      {
+        "id": "cfe2",
+        "name": "Rajiv prajapati",
+        "age": "19",
+        "city": "itarsi",
+        "contact": "54554"
+      }
+    ] 
+  }
